@@ -50,5 +50,10 @@ namespace Latihan_1_2
         {
             label2.Text = ((VScrollBar)sender).Value.ToString();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
