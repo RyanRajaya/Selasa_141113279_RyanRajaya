@@ -1,0 +1,9 @@
+D:\3.College\Smes5\Framework Lanjutan\Selasa_141113279_RyanRajaya\Latihan_3_1\bin\Debug\Latihan_3_1.exe.config
+D:\3.College\Smes5\Framework Lanjutan\Selasa_141113279_RyanRajaya\Latihan_3_1\bin\Debug\Latihan_3_1.exe
+D:\3.College\Smes5\Framework Lanjutan\Selasa_141113279_RyanRajaya\Latihan_3_1\bin\Debug\Latihan_3_1.pdb
+D:\3.College\Smes5\Framework Lanjutan\Selasa_141113279_RyanRajaya\Latihan_3_1\obj\Debug\Latihan_3_1.Form1.resources
+D:\3.College\Smes5\Framework Lanjutan\Selasa_141113279_RyanRajaya\Latihan_3_1\obj\Debug\Latihan_3_1.Properties.Resources.resources
+D:\3.College\Smes5\Framework Lanjutan\Selasa_141113279_RyanRajaya\Latihan_3_1\obj\Debug\Latihan_3_1.csproj.GenerateResource.Cache
+D:\3.College\Smes5\Framework Lanjutan\Selasa_141113279_RyanRajaya\Latihan_3_1\obj\Debug\Latihan_3_1.exe
+D:\3.College\Smes5\Framework Lanjutan\Selasa_141113279_RyanRajaya\Latihan_3_1\obj\Debug\Latihan_3_1.pdb
+D:\3.College\Smes5\Framework Lanjutan\Selasa_141113279_RyanRajaya\Latihan_3_1\obj\Debug\Latihan_3_1.csprojResolveAssemblyReference.cache
