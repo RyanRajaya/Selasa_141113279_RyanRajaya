@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan_3_1", "Latihan_3_1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan_4_1", "Latihan_4_1\Latihan_4_1.csproj", "{59F79D5F-1428-40BB-AA2E-CA020CED2798}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan_5_1", "Latihan_5_1\Latihan_5_1.csproj", "{5648C96C-1844-4E0F-9C96-1DC04FC9CDBC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{59F79D5F-1428-40BB-AA2E-CA020CED2798}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59F79D5F-1428-40BB-AA2E-CA020CED2798}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59F79D5F-1428-40BB-AA2E-CA020CED2798}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5648C96C-1844-4E0F-9C96-1DC04FC9CDBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5648C96C-1844-4E0F-9C96-1DC04FC9CDBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5648C96C-1844-4E0F-9C96-1DC04FC9CDBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5648C96C-1844-4E0F-9C96-1DC04FC9CDBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,9 @@
+D:\3.College\Smes5\Framework Lanjutan\Selasa_141113279_RyanRajaya\Latihan_5_1\bin\Debug\Latihan 5_1.exe.config
+D:\3.College\Smes5\Framework Lanjutan\Selasa_141113279_RyanRajaya\Latihan_5_1\obj\Debug\Latihan 5_1.exe
+D:\3.College\Smes5\Framework Lanjutan\Selasa_141113279_RyanRajaya\Latihan_5_1\obj\Debug\Latihan 5_1.pdb
+D:\3.College\Smes5\Framework Lanjutan\Selasa_141113279_RyanRajaya\Latihan_5_1\bin\Debug\Latihan 5_1.exe
+D:\3.College\Smes5\Framework Lanjutan\Selasa_141113279_RyanRajaya\Latihan_5_1\bin\Debug\Latihan 5_1.pdb
+D:\3.College\Smes5\Framework Lanjutan\Selasa_141113279_RyanRajaya\Latihan_5_1\obj\Debug\Latihan_5_1.mainForm.resources
+D:\3.College\Smes5\Framework Lanjutan\Selasa_141113279_RyanRajaya\Latihan_5_1\obj\Debug\Latihan_5_1.miniForm.resources
+D:\3.College\Smes5\Framework Lanjutan\Selasa_141113279_RyanRajaya\Latihan_5_1\obj\Debug\Latihan_5_1.Properties.Resources.resources
+D:\3.College\Smes5\Framework Lanjutan\Selasa_141113279_RyanRajaya\Latihan_5_1\obj\Debug\Latihan_5_1.csproj.GenerateResource.Cache
