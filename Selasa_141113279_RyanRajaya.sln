@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan 1_1", "Latihan 1_1\Latihan 1_1.csproj", "{BE455EB0-9B76-40AB-AA1B-ADC36ED3AF30}"
 EndProject
@@ -14,6 +14,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan_4_1", "Latihan_4_1\Latihan_4_1.csproj", "{59F79D5F-1428-40BB-AA2E-CA020CED2798}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan_5_1", "Latihan_5_1\Latihan_5_1.csproj", "{5648C96C-1844-4E0F-9C96-1DC04FC9CDBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "volleyball_problem", "volleyball_problem\volleyball_problem.csproj", "{2568A407-8ECC-4580-8D99-656C9E33A6D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{5648C96C-1844-4E0F-9C96-1DC04FC9CDBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5648C96C-1844-4E0F-9C96-1DC04FC9CDBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5648C96C-1844-4E0F-9C96-1DC04FC9CDBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2568A407-8ECC-4580-8D99-656C9E33A6D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2568A407-8ECC-4580-8D99-656C9E33A6D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2568A407-8ECC-4580-8D99-656C9E33A6D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2568A407-8ECC-4580-8D99-656C9E33A6D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
