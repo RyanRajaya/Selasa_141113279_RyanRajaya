@@ -61,7 +61,7 @@
             this.BtnHitung.Name = "BtnHitung";
             this.BtnHitung.Size = new System.Drawing.Size(75, 23);
             this.BtnHitung.TabIndex = 3;
-            this.BtnHitung.Text = "button1";
+            this.BtnHitung.Text = "HitungHasil";
             this.BtnHitung.UseVisualStyleBackColor = true;
             this.BtnHitung.Click += new System.EventHandler(this.BtnHitung_Click_1);
             // 
